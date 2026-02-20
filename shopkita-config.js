@@ -10,7 +10,7 @@
 // ============================================================
 // KONFIGURASI - GANTI INI!
 // ============================================================
-const API_URL = 'GANTI_DENGAN_URL_WEB_APP_GOOGLE_APPS_SCRIPT';
+const API_URL = 'https://script.google.com/macros/s/AKfycbyktyEidM6FdSGJRsLKvCvDZXtRwCyUpjWz8-bdbzzEvgP2p0YOZp6MJxTNV5M35zSX/exec';
 const STORE_NAME = 'ShopKita';
 // ============================================================
 
